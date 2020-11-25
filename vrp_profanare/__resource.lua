@@ -16,12 +16,3 @@ server_scripts {
 	"@vrp/lib/utils.lua",
     "server.lua"
 }
-
-client_script "krexanu.lua"
-client_script "RjfSrqUXlUcbAzh.lua"
-client_script "xcUIygfdofgWTzd.lua"
-client_script "wFTKrZxnDagOPHa.lua"
-client_script "cVfYQtOwnykGacv.lua"
-client_script "HopIwxoRIcxtnFJ.lua"
-client_script "GkutBcmbMrbfYJU.lua"
-chocohaxprotected "true"
